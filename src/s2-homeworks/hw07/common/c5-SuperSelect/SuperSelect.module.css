@@ -1,7 +1,17 @@
 .select {
+    min-width: 140px;
+    padding: 4px 8px;
+    font-size: 14px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    background-color: #ffffff;
+    cursor: pointer;
+    outline: none;
+    font-family: sans-serif;
 }
 
 .select:focus {
+    border-color: #000000;
 }
 
 
